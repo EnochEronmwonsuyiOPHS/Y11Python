@@ -1,3 +1,4 @@
+#StringSliceChallanges06.py
 firstname = str(input("Enter your first name"))
 
 if len(firstname) < 5:

@@ -1,3 +1,4 @@
+#StringSliceChallanges08.py
 lastname = str(input("Enter your lastname"))
 
 three = lastname[0:3]

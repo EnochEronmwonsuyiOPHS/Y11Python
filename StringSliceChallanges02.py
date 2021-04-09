@@ -1,3 +1,4 @@
+#StringSliceChallanges02.py
 first_name = str(input("Enter your firstname"))
 last_name = str(input("Enter your last name"))
 

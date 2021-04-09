@@ -1,3 +1,4 @@
+#Selection005.py
 raining = str(input("Is it raining now")).lower()
 if raining == "yes":
     windy = str(input("Is it windy today"))

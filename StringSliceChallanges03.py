@@ -1,3 +1,4 @@
+#StringSliceChallanges03.py
 firstname = str(input("Enter your first name in lower case"))
 
 lastname = str(input("Enter your last name in lower case"))

@@ -1,3 +1,4 @@
+#Selection004.py
 fav_colour = str(input("Enter your favourite colour"))
 if fav_colour == "red":
     print("I like red too")

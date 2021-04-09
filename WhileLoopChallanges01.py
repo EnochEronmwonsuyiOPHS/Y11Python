@@ -1,3 +1,4 @@
+#WhileLoopChallanges01.py
 total = 0
 while total <= 50:
     number = int(input("Enter a number"))

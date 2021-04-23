@@ -1,4 +1,5 @@
 #WhileLoopChallanges05.py
+#Enoch
 compnum = 50
 guess = int(input("Guess the competition number"))
 count = 1

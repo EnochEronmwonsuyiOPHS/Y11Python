@@ -1,4 +1,5 @@
 #WhileLoopChallanges03.py
+#Enoch
 num = int(input("Enter a number"))
 firstnum = num
 total = firstnum

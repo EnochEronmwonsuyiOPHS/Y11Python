@@ -1,4 +1,5 @@
 #StringSliceChallanges02.py
+#Enoch
 first_name = str(input("Enter your firstname"))
 last_name = str(input("Enter your last name"))
 

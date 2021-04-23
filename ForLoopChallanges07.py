@@ -1,4 +1,5 @@
 #ForLoopChallanges07.py
+#Enoch
 total = 0
 for i in range(0,4):
     num1 = int(input("Enter a number"))

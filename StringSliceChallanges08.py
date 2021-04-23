@@ -1,4 +1,5 @@
 #StringSliceChallanges08.py
+#Enoch
 lastname = str(input("Enter your lastname"))
 
 three = lastname[0:3]

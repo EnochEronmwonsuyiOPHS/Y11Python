@@ -1,4 +1,5 @@
 #StringSliceChallanges06.py
+#Enoch
 firstname = str(input("Enter your first name"))
 
 if len(firstname) < 5:

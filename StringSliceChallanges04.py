@@ -1,4 +1,5 @@
  #StringSliceChallanges04.py
+ #Enoch
  firstline = str(input("Enter the first line of a nursery rhyme"))
 
 length = len(firstline)
